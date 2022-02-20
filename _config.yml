@@ -11,13 +11,13 @@ relative_permalinks: true
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              your locale language # eg. en_us
 name:				         jazz blues y soul
-title:               site title
+title:               jazz blues y soul
 tagline:             'tagline'
-description:         'description'
+description:         'Un género que revolucionó la musica y lo seguirá haciendo muchos años años más'
 url:                 site url
 rss:                 rss feed url
-baseurl:             '/mickey/'
-baseurl_posts_img:   '/mickey/assets/images/posts/'
+baseurl:             '/jazzbluesysoul/'
+baseurl_posts_img:   '/Jazz Blues y Soul/assets/images/posts/'
 baseurl_featured_img: '/mickey/assets/images/hero/'
 baseurl_featured_thumbnail: '/mickey/assets/images/thumbnail/'
 baseurl_javascripts: '/mickey/assets/javascripts/'
